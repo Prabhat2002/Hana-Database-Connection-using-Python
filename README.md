@@ -1,0 +1,5 @@
+--> Create instance(SAP HANA Cloud) also add parameter(go to via link) 
+--> add servicekey
+-->SAP HANA Cloud Subscribe 
+--> Create table using query 
+--> Insert Data
